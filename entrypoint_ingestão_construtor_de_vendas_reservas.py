@@ -1,0 +1,5 @@
+from etl.fluxos.ingestão_construtor_de_vendas_reservas import fluxo_de_dados_de_reservas_do_crm
+from etl.fluxos.ingestão_reservas_simplificado import fluxo_de_dados_de_reservas_simplificado
+
+fluxo_de_dados_de_reservas_do_crm()
+fluxo_de_dados_de_reservas_simplificado()

@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto de um pipeline de dados para um construtora </h1>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Status-Em_andamento-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Vers%C3%A3o-0.5-yellow"> <br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Status-Em_andamento-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Vers%C3%A3o-0.9-yellow"> <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode"> <img alt="Static Badge" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white"> <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi"> <br>
 
@@ -15,4 +15,5 @@
 <br>
 
 A imagem abaixo teve varios dados retirados e/ou modificados de forma propósital afim de manter o sigilo.
-<img src="https://prnt.sc/FlA2qzJt5d9i" alt="Exemplo de um dashboard confeccionado com os dados do pipeline.">
+![Exemplo de um dashboard que se alimenta com os dados desta pipeline.](https://github.com/user-attachments/assets/85935387-d1df-478a-8d6c-65f737a1f2ec)
+

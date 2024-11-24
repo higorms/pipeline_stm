@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de um pipeline de dados para um construtora </h1>
+<h1 align="center"> Projeto de um pipeline de dados para uma construtora </h1>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Status-Em_andamento-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Vers%C3%A3o-0.9-yellow"> <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode"> <img alt="Static Badge" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white"> <br>
